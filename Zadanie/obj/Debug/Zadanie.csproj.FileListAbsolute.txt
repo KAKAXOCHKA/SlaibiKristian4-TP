@@ -1,0 +1,10 @@
+C:\Users\krist\source\repos\Zadanie\Zadanie\bin\Debug\Zadanie.exe.config
+C:\Users\krist\source\repos\Zadanie\Zadanie\bin\Debug\Zadanie.exe
+C:\Users\krist\source\repos\Zadanie\Zadanie\bin\Debug\Zadanie.pdb
+C:\Users\krist\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.Form1.resources
+C:\Users\krist\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.Properties.Resources.resources
+C:\Users\krist\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.GenerateResource.cache
+C:\Users\krist\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.exe
+C:\Users\krist\source\repos\Zadanie\Zadanie\obj\Debug\Zadanie.pdb
